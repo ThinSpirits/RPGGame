@@ -1,6 +1,6 @@
 ﻿namespace SuperAdventure
 {
-    partial class Form1
+    partial class SuperAdventure
     {
         /// <summary>
         /// Required designer variable.
@@ -36,7 +36,6 @@
             this.lblExperience = new System.Windows.Forms.Label();
             this.lblLevel = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.btnTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -107,22 +106,11 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Level:";
             // 
-            // btnTest
-            // 
-            this.btnTest.Location = new System.Drawing.Point(298, 140);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(75, 23);
-            this.btnTest.TabIndex = 8;
-            this.btnTest.Text = "button1";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(719, 651);
-            this.Controls.Add(this.btnTest);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.lblLevel);
             this.Controls.Add(this.lblExperience);
@@ -148,7 +136,6 @@
         private System.Windows.Forms.Label lblExperience;
         private System.Windows.Forms.Label lblLevel;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button btnTest;
     }
 }
 

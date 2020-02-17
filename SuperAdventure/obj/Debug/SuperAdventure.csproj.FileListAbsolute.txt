@@ -10,3 +10,15 @@ C:\Projects\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cach
 C:\Projects\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
 C:\Projects\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Projects\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Projects\RPGGame\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Projects\RPGGame\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Projects\RPGGame\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Projects\RPGGame\SuperAdventure\bin\Debug\Engine.dll
+C:\Projects\RPGGame\SuperAdventure\bin\Debug\Engine.pdb
+C:\Projects\RPGGame\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
