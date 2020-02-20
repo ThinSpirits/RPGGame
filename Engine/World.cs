@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//TODO: Move individual items, monsters, quests, locations to their proper classes to see if this separation is necessary- Lesson 12.1
+
 namespace Engine
 {
     public class World
