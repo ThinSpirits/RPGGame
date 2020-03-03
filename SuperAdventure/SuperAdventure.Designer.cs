@@ -172,6 +172,7 @@
             this.buttonNorth.TabIndex = 13;
             this.buttonNorth.Text = "North";
             this.buttonNorth.UseVisualStyleBackColor = true;
+            this.buttonNorth.Click += new System.EventHandler(this.buttonNorth_Click);
             // 
             // buttonEast
             // 
